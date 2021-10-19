@@ -8,6 +8,12 @@ https://www.npmjs.com/package/react-google-login
 <br />
 @deepakgupta
 
+<br /><br />
+used platform : <br />
+1) https://console.cloud.google.com/ <br />
+2) https://console.firebase.google.com/
+
+
 <br />
 working url <br />
 https://nlen1.csb.app/ <br />
