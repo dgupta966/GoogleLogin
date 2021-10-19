@@ -18,7 +18,7 @@ const GoogleLoginButton = () => {
       <p>{email}</p>
       <img src={url} alt={name} />
       <GoogleLogin
-        clientId="311174857882-sj371jgamoipi6r50c1d6d0r5ps35gbc.apps.googleusercontent.com"
+        clientId="290084986341-qand35i2fqjhsf55ijd2kigbfhh1qb7t.apps.googleusercontent.com"
         buttonText="Login"
         onSuccess={responseGoogle}
         onFailure={responseGoogle}
